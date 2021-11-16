@@ -1,0 +1,9 @@
+-----------------------------------------------------
+- @Author : Saïd ait faska 
+- @Groupe : A
+- fichier: LISEZ_MOI.txt 
+-----------------------------------------------------
+REMARQUE :
+
+------>   Les fichier minishell.c comporte le code complet du projet 
+          le rapport constitue les réponses ainsi detaillés des questions et les tests associés 
