@@ -1,0 +1,4 @@
+pagerank ADA programing language this project allows us to calculate the popularity of a website based on the links between diferents websites , the files for testing the programme will be soon uploaded
+---> there are two different ways to calculate the pagerank :
+* 1 - using the naive methode
+* 2 - using the matrix in order to save the execution time
