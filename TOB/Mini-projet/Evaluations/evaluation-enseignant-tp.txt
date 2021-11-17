@@ -1,0 +1,19 @@
+=====[ Relecture du code ]======================================================
+
+Remarque : n points de pénalité ==> n points perdus sur la note.
+
+Fichier LISEZ-MOI.txt :
+    question 2 : réponse incomplète : -0.5 pt
+
+Commentaire de documentation : 	-1
+    * Commentaires non pertinents : 	-1
+
+Forme :
+    * choix des identifiants		-1
+	en particulier les paramètres de creerCercle (voir retour fait aux étudiants)
+    * ordre des éléments dans la classe -0.5
+
+
+Total pénalités : 2.5
+
+--------------------------------------------------------------------------------
